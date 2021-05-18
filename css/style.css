@@ -1,0 +1,37 @@
+/*----------NAV----------- */
+
+
+/* jumbo */
+.jumbotroon{
+    background-color: #1ABC9C;
+    height: 500px;
+    width: 100%;
+}
+
+
+/* portfolio */
+.portfolio{
+    background-color: blue;
+    height: 900px;
+    width: 100%;
+}
+
+/* about */
+.about  {
+    background-color:#1ABC9C;
+    height: 300px;
+    width: 100%;
+}
+
+/* contatti */
+.contact{
+    background-color: tomato;
+    height: 600PX;
+    width: 100%;;
+}
+
+/* footer */
+.footer{
+    background-color:#3A546D;
+    overflow-x: hidden;
+}
