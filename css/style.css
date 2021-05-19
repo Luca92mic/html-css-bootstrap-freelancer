@@ -55,7 +55,7 @@ h4{
 .box{
 /*     background-color: red; */
     width: 100%;
-    height: 100px;
+/*     height: 100px; */
 }
 
 .box>.img-port{
@@ -67,10 +67,10 @@ h4{
 }
 
 /* about */
-.about  {
+#about  {
     background-color:#1ABC9C;
-    height: 300px;
-    width: 100%;
+    padding: 60px;
+    color: white;
 }
 
 /* contatti */
